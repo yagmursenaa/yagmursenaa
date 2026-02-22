@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Mathematics Engineering student with a strong analytical and mathematical foundation.<br>Interested in Data Science, Optimization, and Data-Driven Decision Systems.<br>Skilled in problem solving, analytical thinking, and mathematical modeling.<br>Currently developing data-driven and analytical projects.
+🎓Mathematics Engineering student with a strong analytical and mathematical foundation.<br>📊Interested in Data Science, Optimization, and Data-Driven Decision Systems.<br>🧠Skilled in problem solving, analytical thinking, and mathematical modeling.<br>💻Currently developing data-driven and analytical projects.
 
 
 ## 🌐 Socials:
